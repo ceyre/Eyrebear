@@ -1,1 +1,4 @@
 My first file
+Manuscript outline
+Another new line
+Added a sentence in my new branch
